@@ -1,0 +1,43 @@
+[{
+    "id" : 1,
+    "img" : "img/greymon.png",
+    "imgalt":"string",
+    "desc":"A wild greymon version 1!!",
+    "price" : 100.0,
+    "productname" : "Strings"
+}, {
+    "id" : 2,
+    "img" : "img/paladin.png",
+    "imgalt":"redg",
+    "desc":"imperial dramon paladin mode cool!!",
+    "price" : 400.0,
+    "productname" : "Imperial Dramon Paladin Mode"
+},{
+    "id" : 3,
+    "img" : "img/kazuchi.png",
+    "imgalt":"drums",
+    "desc":"kauchi!!!! kuwang!!kuwang!!kuwang!!kuwang!!kuwang!!kuwang!!kuwang!!",
+    "price" : 17000.0,
+    "productname" : "Drums"
+},{
+    "id" : 4,
+    "img" : "img/flute.jpeg",
+    "imgalt":"flute",
+    "desc":"A super nice flute combined with some super nice musical notes!!",
+    "price" : 210.0,
+    "productname" : "Flute"
+},{
+    "id" : 5,
+    "img" : "img/blackguitar.jpeg",
+    "imgalt":"Black guitar",
+    "desc":"An awesome guitar that will product amazing sound!!",
+    "price" : 200.0,
+    "productname" : "Black Guitar"
+},{
+    "id" : 6,
+    "img" : "img/saxophone.jpeg",
+    "imgalt":"Saxophone",
+    "desc":"An great saxophone for a great musician!!",
+    "price" : 1000.0,
+    "productname" : "Saxophone"
+}]
